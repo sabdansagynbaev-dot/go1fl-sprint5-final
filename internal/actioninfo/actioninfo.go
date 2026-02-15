@@ -18,6 +18,6 @@ func Info(dataset []string, dp DataParser) {
    continue
   }
 
-  fmt.Print(info) // важно: Print, не Println (у info уже есть \n в конце)
+  fmt.Print(info) // aaaa 
  }
 }
